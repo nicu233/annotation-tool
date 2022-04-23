@@ -1,3 +1,3 @@
 # annotation-tool
-annotation tool
+## usage
 coming soon
